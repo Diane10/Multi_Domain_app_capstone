@@ -5,7 +5,7 @@ app is streamlit app aims to provide a tutorial process whereby users can upload
 #### steps for running application
 + download  codes
 + install all Dependencies found in PipFile
-+ after installing them ,open anaconda prompt and go to the folder where the app.py is located and run this command streamlit run app.py
++ after installing them ,open anaconda prompt and go to the folder where the app.py is located and run this command "streamlit run app.py"
 + you will see open tab which contain application
 
 #### By
