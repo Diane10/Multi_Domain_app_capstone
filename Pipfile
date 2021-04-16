@@ -1,21 +1,14 @@
-[[source]]
-name = "pypi"
-url = "https://pypi.org/simple"
-verify_ssl = true
-
-[dev-packages]
-
-[packages]
-pandas = "*"
-tensorflow="*"
-streamlit = "*"
-seaborn = "*"
-matplotlib = "*"
-sklearn="*"
-nlp="*"
-sumy="*"
-spacy="*"
-
-
-[requires]
-python_version = "3.6"
+numpy
+scipy>=0.15.1
+scikit-learn==0.22.1
+matplotlib>=1.4.3
+pandas>=0.19
+tensorflow-cpu
+streamlit
+tensorflow
+PILLOW
+numpy
+seaborn
+nlp
+sumy
+textblob
