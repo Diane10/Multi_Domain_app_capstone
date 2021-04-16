@@ -1,4 +1,4 @@
-#install all of this app
+#install all of this libraries
 numpy
 scipy>=0.15.1
 scikit-learn==0.22.1
